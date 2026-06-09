@@ -1,0 +1,87 @@
+{
+  "id": "lineer_cebir_intro",
+  "packName": "Lineer Cebir (Matrisler ve Uzaylar)",
+  "author": "KOBGA",
+  "description": "Vektör uzayları, determinantlar ve özdeğer kavramlarını formüllerde boğulmadan pratik hap bilgilerle öğrenin.",
+  "isInstalled": false,
+  "isStarted": false,
+  "settings": {
+    "totalDays": 21,
+    "notificationsPerDay": 3
+  },
+  "cards": [
+    {
+      "id": "linear_1",
+      "packName": "Lineer Cebir (Matrisler ve Uzaylar)",
+      "difficulty": "Kolay",
+      "infoText": "Birim Matris (Identity Matrix): Asal köşegeni (sol üstten sağ alta) üzerindeki elemanları 1, diğer tüm elemanları 0 olan karesel matrislerdir. 'I' harfi ile gösterilir.",
+      "question": "Asal köşegenindeki elemanları 1, geri kalan tüm elemanları 0 olan matris türüne ne ad verilir?",
+      "options": [
+        "Sıfır Matrisi",
+        "Kare Matris",
+        "Birim Matris",
+        "Simetrik Matris"
+      ],
+      "correctAnswer": "Birim Matris",
+      "type": "hap_bilgi",
+      "nextReviewDate": "2026-06-03T00:00:00.000Z",
+      "isInMemoryBox": false,
+      "correctStreak": 0
+    },
+    {
+      "id": "linear_2",
+      "packName": "Lineer Cebir (Matrisler ve Uzaylar)",
+      "difficulty": "Orta",
+      "infoText": "Determinant: Yalnızca kare matrisler (nxn) için tanımlanan, matrisin tersinin olup olmadığını belirleyen skaler bir değerdir. Determinant 0 ise matrisin tersi yoktur.",
+      "question": "Bir kare matrisin tersinin (inverse) olabilmesi için determinantı hangi şartı sağlamalıdır?",
+      "options": [
+        "Sıfıra eşit olmalıdır",
+        "Sıfırdan farklı olmalıdır",
+        "Bire eşit olmalıdır",
+        "Negatif olmalıdır"
+      ],
+      "correctAnswer": "Sıfırdan farklı olmalıdır",
+      "type": "hap_bilgi",
+      "nextReviewDate": "2026-06-03T00:00:00.000Z",
+      "isInMemoryBox": false,
+      "correctStreak": 0
+    },
+    {
+      "id": "linear_3",
+      "packName": "Lineer Cebir (Matrisler ve Uzaylar)",
+      "difficulty": "Zor",
+      "infoText": "Özdeğer (Eigenvalue) ve Özvektör (Eigenvector): A matrisi ve v vektörü için Av = λv eşitliğini sağlayan λ skalerine özdeğer, v vektörüne özvektör denir.",
+      "question": "Av = λv denklemindeki 'λ' (lambda) skaleri Lineer Cebir'de ne olarak adlandırılır?",
+      "options": [
+        "Özvektör (Eigenvector)",
+        "Determinant",
+        "İz (Trace)",
+        "Özdeğer (Eigenvalue)"
+      ],
+      "correctAnswer": "Özdeğer (Eigenvalue)",
+      "type": "hap_bilgi",
+      "nextReviewDate": "2026-06-03T00:00:00.000Z",
+      "isInMemoryBox": false,
+      "correctStreak": 0
+    },
+    {
+      "id": "linear_test_1",
+      "packName": "Lineer Cebir (Matrisler ve Uzaylar)",
+      "difficulty": "Zor",
+      "infoText": "",
+      "question": "GÜN SONU TESTİ: Eğer bir A matrisinin satırları doğrusal bağımlıysa (linearly dependent), bu matrisin determinantı hakkında ne söylenebilir?",
+      "options": [
+        "Determinant 1'dir",
+        "Determinant 0'dır",
+        "Determinant negatiftir",
+        "Hesaplanamaz"
+      ],
+      "correctAnswer": "Determinant 0'dır",
+      "type": "test",
+      "nextReviewDate": "2026-06-03T00:00:00.000Z",
+      "isInMemoryBox": false,
+      "correctStreak": 0
+    }
+  ],
+  "authorLogoUrl": "https://ui-avatars.com/api/?name=KOBGA&background=8B5CF6&color=fff&size=256"
+}
