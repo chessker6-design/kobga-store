@@ -11,6 +11,17 @@
     "dailyTarget": 0
   },
   {
+    "id": "kobga_pack_kalkulus_hacim_alan_03",
+    "filename": "Hacim_hesabı_mat2.json",
+    "packName": "Kalkülüs 2 - Dönel Cisimlerin Hacmi ve Yüzey Alanı",
+    "author": "Antigravity",
+    "authorLogoUrl": "https://ui-avatars.com/api/?name=Antigravity&background=8B5CF6&color=fff&size=256",
+    "description": "Disk mi Kabuk mu? İşaret tablosu ne işe yarar? Hacim ve yüzey alanı sorularında tam puan almanı sağlayacak 4 günlük final taktikleri.",
+    "totalCards": 12,
+    "campaignDays": 0,
+    "dailyTarget": 0
+  },
+  {
     "id": "ingilizce_b2_kampi",
     "filename": "ingilizce.json",
     "packName": "İngilizce B2 İleri Kelime Kampı",
@@ -64,5 +75,16 @@
     "totalCards": 4,
     "campaignDays": 14,
     "dailyTarget": 4
+  },
+  {
+    "id": "kobga_pack_kalkulus_yay_uzunlugu_02",
+    "filename": "Yay uzunluğu.kobga.json",
+    "packName": "Kalkülüs 2 - Yay Uzunluğu ve İntegral Nokta Atışı",
+    "author": "Antigravity",
+    "authorLogoUrl": "https://ui-avatars.com/api/?name=Antigravity&background=8B5CF6&color=fff&size=256",
+    "description": "Kalkülüs finalleri için hayat kurtaran taktikler! 4 günlük yoğun kamp ile yay uzunluğu, alan ve integralin türevi cebinde.",
+    "totalCards": 12,
+    "campaignDays": 0,
+    "dailyTarget": 0
   }
 ]
