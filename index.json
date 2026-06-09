@@ -1,0 +1,68 @@
+[
+  {
+    "id": "b49e569d-2626-410b-8ba0-0cc31a7c74e8",
+    "filename": "erdem_kpss.kobga.json",
+    "packName": "ERDEM KPSS",
+    "author": "ERDEM GÜMÜŞER",
+    "authorLogoUrl": "https://ui-avatars.com/api/?name=ERDEM%20G%C3%9CM%C3%9C%C5%9EER&background=8B5CF6&color=fff&size=256",
+    "description": "BU PAKET İŞE YARAMAZDIR",
+    "totalCards": 9,
+    "campaignDays": 0,
+    "dailyTarget": 0
+  },
+  {
+    "id": "ingilizce_b2_kampi",
+    "filename": "ingilizce.json",
+    "packName": "İngilizce B2 İleri Kelime Kampı",
+    "author": "KOBGA",
+    "authorLogoUrl": "https://ui-avatars.com/api/?name=KOBGA+Egitim&background=0D8ABC&color=fff&size=256",
+    "description": "Günlük hayatta ve iş hayatında en çok karşılaşacağınız B2 seviye İngilizce kelimeleri aralıklı tekrar yöntemiyle kalıcı olarak öğrenin.",
+    "totalCards": 4,
+    "campaignDays": 30,
+    "dailyTarget": 5
+  },
+  {
+    "id": "kpss_osmanli_kamp.kobga",
+    "filename": "kpss_osmanli_kamp.kobga.json",
+    "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+    "author": "Antigravity",
+    "authorLogoUrl": "https://ui-avatars.com/api/?name=Antigravity&background=8B5CF6&color=fff&size=256",
+    "description": "Osmanlı Devleti kuruluştan yıkılışa kadar az bilinen, zor unutulan ama KPSS'de çıkma ihtimali çok yüksek olan ince detaylar. 3 günlük özel kamp.",
+    "totalCards": 39,
+    "campaignDays": 0,
+    "dailyTarget": 0
+  },
+  {
+    "id": "ed45c363-ec9e-4a0d-adff-4688d1bff624",
+    "filename": "kpss_tari̇h_full_tekrar.kobga.json",
+    "packName": "KPSS TARİH FULL TEKRAR",
+    "author": "AHMET HOCA",
+    "authorLogoUrl": "https://ui-avatars.com/api/?name=AHMET%20HOCA&background=8B5CF6&color=fff&size=256",
+    "description": "bu paket kpss tarih sorularını içermektedir.",
+    "totalCards": 2,
+    "campaignDays": 0,
+    "dailyTarget": 0
+  },
+  {
+    "id": "lineer_cebir_intro",
+    "filename": "lineer_cebir.json",
+    "packName": "Lineer Cebir (Matrisler ve Uzaylar)",
+    "author": "KOBGA",
+    "authorLogoUrl": "https://ui-avatars.com/api/?name=KOBGA&background=8B5CF6&color=fff&size=256",
+    "description": "Vektör uzayları, determinantlar ve özdeğer kavramlarını formüllerde boğulmadan pratik hap bilgilerle öğrenin.",
+    "totalCards": 4,
+    "campaignDays": 21,
+    "dailyTarget": 3
+  },
+  {
+    "id": "siber_guvenlik_101",
+    "filename": "siber_guvenlik.json",
+    "packName": "Siber Güvenlik 101",
+    "author": "KOBGA",
+    "authorLogoUrl": "https://ui-avatars.com/api/?name=KOBGA&background=8B5CF6&color=fff&size=256",
+    "description": "Ağ güvenliği, şifreleme ve etik hacking temellerini gün içinde küçük bildirimlerle siber güvenlik uzmanı edasıyla öğrenin.",
+    "totalCards": 4,
+    "campaignDays": 14,
+    "dailyTarget": 4
+  }
+]
