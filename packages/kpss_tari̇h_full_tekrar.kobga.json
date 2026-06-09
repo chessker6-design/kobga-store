@@ -1,0 +1,43 @@
+{
+  "id": "ed45c363-ec9e-4a0d-adff-4688d1bff624",
+  "packName": "KPSS TARİH FULL TEKRAR",
+  "author": "AHMET HOCA",
+  "description": "bu paket kpss tarih sorularını içermektedir.",
+  "campaignSettings": {
+    "totalDays": 5,
+    "notificationsPerDay": 4,
+    "startTime": "09:00",
+    "endTime": "22:00"
+  },
+  "cards": [
+    {
+      "id": "9df8db2c-64bb-4aae-9abf-c9c2a17f8a63",
+      "packName": "KPSS TARİH FULL TEKRAR",
+      "difficulty": "Orta",
+      "infoText": "Orta Asya'da ilk Türk devleti Asya Hun Devleti'dir.",
+      "question": "weqweqe",
+      "options": [
+        "qweqwe",
+        "qeqeqe",
+        "qweqwe",
+        "qweqeqeq"
+      ],
+      "correctAnswer": "qweqwe"
+    },
+    {
+      "id": "edb10b49-9abf-4c29-b227-35986fd6b6c1",
+      "packName": "KPSS TARİH FULL TEKRAR",
+      "difficulty": "Orta",
+      "infoText": "wqwqwqwqw",
+      "question": "qwqwq",
+      "options": [
+        "wefsgfsd",
+        "gsfhf",
+        "dgssfdh",
+        "muktykr6uıkuyk"
+      ],
+      "correctAnswer": "gsfhf"
+    }
+  ],
+  "authorLogoUrl": "https://ui-avatars.com/api/?name=AHMET%20HOCA&background=8B5CF6&color=fff&size=256"
+}

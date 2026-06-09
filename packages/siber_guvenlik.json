@@ -1,0 +1,87 @@
+{
+  "id": "siber_guvenlik_101",
+  "packName": "Siber Güvenlik 101",
+  "author": "KOBGA",
+  "description": "Ağ güvenliği, şifreleme ve etik hacking temellerini gün içinde küçük bildirimlerle siber güvenlik uzmanı edasıyla öğrenin.",
+  "isInstalled": false,
+  "isStarted": false,
+  "settings": {
+    "totalDays": 14,
+    "notificationsPerDay": 4
+  },
+  "cards": [
+    {
+      "id": "cyber_1",
+      "packName": "Siber Güvenlik 101",
+      "difficulty": "Kolay",
+      "infoText": "Phishing (Oltalama): Saldırganların güvenilir bir kurum gibi davranarak kurbanların hassas bilgilerini (şifre, kredi kartı) çalmaya çalıştığı sosyal mühendislik saldırısıdır.",
+      "question": "Güvenilir bir kurum taklidi yaparak kullanıcıların şifrelerini çalmayı hedefleyen saldırı türüne ne ad verilir?",
+      "options": [
+        "DDoS",
+        "Phishing",
+        "Ransomware",
+        "Man-in-the-Middle"
+      ],
+      "correctAnswer": "Phishing",
+      "type": "hap_bilgi",
+      "nextReviewDate": "2026-06-03T00:00:00.000Z",
+      "isInMemoryBox": false,
+      "correctStreak": 0
+    },
+    {
+      "id": "cyber_2",
+      "packName": "Siber Güvenlik 101",
+      "difficulty": "Orta",
+      "infoText": "Ransomware (Fidye Yazılımı): Bulaştığı sistemdeki dosyaları şifreleyen ve şifreyi çözmek için kripto para vb. yollarla fidye talep eden zararlı yazılımdır.",
+      "question": "Kullanıcının dosyalarını şifreleyerek erişimi engelleyen ve karşılığında para talep eden zararlı yazılım türü hangisidir?",
+      "options": [
+        "Spyware",
+        "Adware",
+        "Ransomware",
+        "Trojan"
+      ],
+      "correctAnswer": "Ransomware",
+      "type": "hap_bilgi",
+      "nextReviewDate": "2026-06-03T00:00:00.000Z",
+      "isInMemoryBox": false,
+      "correctStreak": 0
+    },
+    {
+      "id": "cyber_3",
+      "packName": "Siber Güvenlik 101",
+      "difficulty": "Zor",
+      "infoText": "Zero-Day Vulnerability (Sıfırıncı Gün Zafiyeti): Yazılım geliştiricisi tarafından henüz bilinmeyen veya yaması çıkmamış olan, saldırganların sömürdüğü güvenlik açığıdır.",
+      "question": "Üretici firmanın henüz haberdar olmadığı veya yamasını yayınlamadığı güvenlik açıklarına ne ad verilir?",
+      "options": [
+        "SQL Injection",
+        "Zero-Day",
+        "Cross-Site Scripting",
+        "Buffer Overflow"
+      ],
+      "correctAnswer": "Zero-Day",
+      "type": "hap_bilgi",
+      "nextReviewDate": "2026-06-03T00:00:00.000Z",
+      "isInMemoryBox": false,
+      "correctStreak": 0
+    },
+    {
+      "id": "cyber_test_1",
+      "packName": "Siber Güvenlik 101",
+      "difficulty": "Zor",
+      "infoText": "",
+      "question": "GÜN SONU TESTİ: Kurumunuzun e-posta sistemine sahte bir banka maili gelmiştir ve bir çalışan linke tıklamıştır. Bu bir Phishing saldırısıdır. Saldırganın asıl amacı nedir?",
+      "options": [
+        "Sunucuyu çökerterek erişime kapatmak (DDoS)",
+        "Sosyal mühendislikle kimlik bilgilerini (Credential) ele geçirmek",
+        "Ağ trafiğini dinlemek",
+        "Donanımları yakmak"
+      ],
+      "correctAnswer": "Sosyal mühendislikle kimlik bilgilerini (Credential) ele geçirmek",
+      "type": "test",
+      "nextReviewDate": "2026-06-03T00:00:00.000Z",
+      "isInMemoryBox": false,
+      "correctStreak": 0
+    }
+  ],
+  "authorLogoUrl": "https://ui-avatars.com/api/?name=KOBGA&background=8B5CF6&color=fff&size=256"
+}

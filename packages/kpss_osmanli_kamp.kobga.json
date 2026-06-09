@@ -1,0 +1,479 @@
+{
+  "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+  "author": "Antigravity",
+  "description": "Osmanlı Devleti kuruluştan yıkılışa kadar az bilinen, zor unutulan ama KPSS'de çıkma ihtimali çok yüksek olan ince detaylar. 3 günlük özel kamp.",
+  "campaignSettings": {
+    "totalDays": 3,
+    "notificationsPerDay": 8,
+    "startTime": "10:00",
+    "endTime": "22:00"
+  },
+  "cards": [
+    {
+      "id": "hap_1",
+      "type": "hap_bilgi",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Orta",
+      "infoText": "Koyunhisar (Bafeon) Savaşı (1302): Osmanlı Devleti ile Bizans İmparatorluğu arasında yapılan İLK savaştır. Halil İnalcık'a göre devletin asıl kuruluş tarihi bu savaştır.",
+      "question": "İlk Osmanlı-Bizans savaşı",
+      "options": [],
+      "correctAnswer": ""
+    },
+    {
+      "id": "hap_2",
+      "type": "hap_bilgi",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Zor",
+      "infoText": "İlk düzenli ordu 'Yaya ve Müsellem' adıyla Orhan Bey döneminde kurulmuştur. Ancak profesyonel maaşlı askerlerden oluşan Kapıkulu Ocakları'nın (Yeniçeri) temeli I. Murad döneminde Pençik sistemiyle atılmıştır.",
+      "question": "Yaya ve Müsellem ile Yeniçeri farkı",
+      "options": [],
+      "correctAnswer": ""
+    },
+    {
+      "id": "hap_3",
+      "type": "hap_bilgi",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Orta",
+      "infoText": "Sazlıdere Savaşı (1363): I. Murad döneminde Haçlılarla değil, Bulgar ve Bizans ittifakı ile yapılmıştır. Bu savaş sonucunda Edirne fethedilip başkent yapılmıştır.",
+      "question": "Edirne'nin fethini sağlayan savaş",
+      "options": [],
+      "correctAnswer": ""
+    },
+    {
+      "id": "hap_4",
+      "type": "hap_bilgi",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Kolay",
+      "infoText": "Sırpsındığı Savaşı (1364): Osmanlı Devleti'nin Haçlı ordularına karşı kazandığı İLK savaştır. Edirne'nin başkent yapılmasını güven altına almıştır.",
+      "question": "Haçlılarla yapılan ilk savaş",
+      "options": [],
+      "correctAnswer": ""
+    },
+    {
+      "id": "hap_5",
+      "type": "hap_bilgi",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Zor",
+      "infoText": "I. Kosova Savaşı (1389): Osmanlı Devleti'nde topun savaş alanında kullanıldığı İLK savaştır (korkutma amaçlı). Savaş meydanını gezen I. Murad bir Sırplı tarafından şehit edilmiştir.",
+      "question": "Topun ilk kullanıldığı ve padişahın şehit düştüğü savaş",
+      "options": [],
+      "correctAnswer": ""
+    },
+    {
+      "id": "hap_6",
+      "type": "hap_bilgi",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Zor",
+      "infoText": "Ankara Savaşı (1402): Yıldırım Bayezid ile Timur arasında yapılmış, kaybedilince 'Fetret Devri' başlamıştır. Osmanlı'nın Balkanlarda toprak kaybı az olmuş çünkü İskan politikası başarılı olmuştur.",
+      "question": "Ankara savaşı sonrası balkanlarda az toprak kaybı",
+      "options": [],
+      "correctAnswer": ""
+    },
+    {
+      "id": "hap_7",
+      "type": "hap_bilgi",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Orta",
+      "infoText": "II. Kosova Savaşı (1448): Balkanların KESİN olarak Türk yurdu olduğunu tescilleyen savaştır. Bu savaştan sonra Haçlılar taarruzdan savunmaya, Osmanlı savunmadan taarruza geçmiştir. (Miryokefalon'a benzer)",
+      "question": "Balkanların kesin Türk yurdu olduğu savaş",
+      "options": [],
+      "correctAnswer": ""
+    },
+    {
+      "id": "hap_8",
+      "type": "hap_bilgi",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Zor",
+      "infoText": "Şahkulu İsyanı: II. Bayezid döneminde Antalya yöresinde çıkan Şii karakterli, Safevi destekli büyük bir isyandır. Yavuz Sultan Selim'in babasına isyan edip tahta çıkmasını tetiklemiştir.",
+      "question": "Şahkulu İsyanı kime karşı ve ne karakterlidir?",
+      "options": [],
+      "correctAnswer": ""
+    },
+    {
+      "id": "hap_9",
+      "type": "hap_bilgi",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Orta",
+      "infoText": "Çaldıran Savaşı (1514): Yavuz Sultan Selim, Şah İsmail'i mağlup ederek Doğu Anadolu'da Safevi tehlikesini önlemiştir. Bu savaşta Osmanlı'nın ateşli silah üstünlüğü belirleyici olmuştur.",
+      "question": "Çaldıran Savaşı'nın önemi",
+      "options": [],
+      "correctAnswer": ""
+    },
+    {
+      "id": "hap_10",
+      "type": "hap_bilgi",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Zor",
+      "infoText": "Turnadağ Savaşı (1515): Yavuz döneminde Dulkadiroğulları beyliğine son verildi. Anadolu Türk Siyasi Birliği (ATSB) KESİN olarak sağlandı.",
+      "question": "ATSB'yi kesin sağlayan olay",
+      "options": [],
+      "correctAnswer": ""
+    },
+    {
+      "id": "hap_11",
+      "type": "hap_bilgi",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Zor",
+      "infoText": "Ridaniye Savaşı (1517): Memlük Devleti yıkıldı. Mısır fethi tamamlandı. Halifelik Osmanlı padişahlarına (Yavuz) geçti ve Baharat Yolu Osmanlı denetimine girdi.",
+      "question": "Halifeliğin geçişi ve Memlüklerin yıkılışı",
+      "options": [],
+      "correctAnswer": ""
+    },
+    {
+      "id": "hap_12",
+      "type": "hap_bilgi",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Kolay",
+      "infoText": "Preveze Deniz Zaferi (1538): Barbaros Hayreddin Paşa komutasındaki donanma Haçlıları yendi. Akdeniz resmen bir Türk gölü haline geldi.",
+      "question": "Akdeniz'in Türk gölü olması",
+      "options": [],
+      "correctAnswer": ""
+    },
+    {
+      "id": "hap_13",
+      "type": "hap_bilgi",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Zor",
+      "infoText": "Zitvatorok Antlaşması (1606): I. Ahmed dönemi. Avusturya Arşidükü (Kralı), Osmanlı Padişahına denk sayıldı (Mütekabiliyet ilkesi). İstanbul Antlaşması (1533) ile kazanılan siyasi üstünlük kaybedildi.",
+      "question": "Avusturya'ya karşı siyasi üstünlüğün kaybedilmesi",
+      "options": [],
+      "correctAnswer": ""
+    },
+    {
+      "id": "hap_14",
+      "type": "hap_bilgi",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Kolay",
+      "infoText": "Kasr-ı Şirin Antlaşması (1639): IV. Murad dönemi. Zagros dağları sınır kabul edildi ve günümüz Türkiye-İran sınırını büyük ölçüde çizen antlaşmadır.",
+      "question": "Türkiye-İran sınırını belirleyen antlaşma",
+      "options": [],
+      "correctAnswer": ""
+    },
+    {
+      "id": "hap_15",
+      "type": "hap_bilgi",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Orta",
+      "infoText": "Bucaş Antlaşması (1672): Osmanlı Devleti'nin Batı'da topraklarına toprak kattığı SON antlaşmadır ve Batı'da ulaştığı en geniş sınırları belirler.",
+      "question": "Batıda ulaşılan en geniş sınırlar",
+      "options": [],
+      "correctAnswer": ""
+    },
+    {
+      "id": "hap_16",
+      "type": "hap_bilgi",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Zor",
+      "infoText": "Karlofça Antlaşması (1699): Osmanlı'nın Batı'da İLK DEFA büyük çapta toprak kaybettiği antlaşmadır. Gerileme Dönemi'nin başlangıcı kabul edilir.",
+      "question": "İlk büyük toprak kaybı ve gerilemenin başı",
+      "options": [],
+      "correctAnswer": ""
+    },
+    {
+      "id": "hap_17",
+      "type": "hap_bilgi",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Zor",
+      "infoText": "Pasarofça Antlaşması (1718): Osmanlı Devleti, Avrupa'nın askeri ve teknik üstünlüğünü KESİN olarak kabul etti. Bu antlaşma ile Lale Devri başladı.",
+      "question": "Batının üstünlüğünün kabulü ve Lale Devri",
+      "options": [],
+      "correctAnswer": ""
+    },
+    {
+      "id": "hap_18",
+      "type": "hap_bilgi",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Zor",
+      "infoText": "Küçük Kaynarca Antlaşması (1774): Kırım bağımsız oldu. İlk defa halkı tamamen Müslüman ve Türk olan bir toprak parçası kaybedildi. Osmanlı ilk kez savaş tazminatı ödedi.",
+      "question": "Kırım'ın kaybedilmesi ve ilk savaş tazminatı",
+      "options": [],
+      "correctAnswer": ""
+    },
+    {
+      "id": "hap_19",
+      "type": "hap_bilgi",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Zor",
+      "infoText": "Sened-i İttifak (1808): II. Mahmud ile ayanlar arasında imzalandı. Osmanlı Padişahı, İLK KEZ kendi gücü dışında bir gücün (ayanların) varlığını kabul edip yetkilerini kısıtladı. (İngiltere'deki Magna Carta'ya benzer)",
+      "question": "Padişah yetkilerinin İLK KEZ kısıtlanması",
+      "options": [],
+      "correctAnswer": ""
+    },
+    {
+      "id": "hap_20",
+      "type": "hap_bilgi",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Orta",
+      "infoText": "Tanzimat Fermanı (1839): Kanun gücünün her şeyin üstünde olduğu İLK KEZ kabul edildi. Padişah kendi isteğiyle kanun üstünlüğüne uyacağına söz verdi. Anayasacılık faaliyetlerinin ilk adımıdır.",
+      "question": "Kanun üstünlüğünün ilk kez kabulü",
+      "options": [],
+      "correctAnswer": ""
+    },
+    {
+      "id": "hap_21",
+      "type": "hap_bilgi",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Kolay",
+      "infoText": "Islahat Fermanı (1856): Kırım Savaşı sonrası Paris Konferansı'nda Avrupa'nın içişlerimize karışmasını önlemek için sadece gayrimüslimlere yönelik çok geniş haklar verildi.",
+      "question": "Gayrimüslimlere verilen geniş haklar",
+      "options": [],
+      "correctAnswer": ""
+    },
+    {
+      "id": "hap_22",
+      "type": "hap_bilgi",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Zor",
+      "infoText": "İlk Dış Borç: Kırım Savaşı (1853-1856) sırasında Abdülmecid döneminde İngiltere'den alınmıştır. Borçlar ödenemeyince ileride Muharrem Kararnamesi ve Duyun-u Umumiye idaresi kurulacaktır.",
+      "question": "Osmanlı'nın ilk dış borcu ne zaman alındı?",
+      "options": [],
+      "correctAnswer": ""
+    },
+    {
+      "id": "hap_23",
+      "type": "hap_bilgi",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Orta",
+      "infoText": "I. Meşrutiyet (1876): Genç Osmanlıların (Jön Türkler) baskısıyla II. Abdülhamid ilan etmiştir. Kanun-i Esasi adıyla Türk tarihinin ilk anayasası yürürlüğe girmiş, halk ilk kez kısıtlı da olsa yönetime katılmıştır.",
+      "question": "İlk anayasa ve halkın yönetime katılması",
+      "options": [],
+      "correctAnswer": ""
+    },
+    {
+      "id": "hap_24",
+      "type": "hap_bilgi",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Orta",
+      "infoText": "31 Mart Vakası (1909): II. Meşrutiyet yönetimine (rejime) karşı çıkan İLK isyandır. İttihat ve Terakki'nin oluşturduğu, M.Kemal'in kurmay başkanı olduğu Hareket Ordusu tarafından bastırılmıştır.",
+      "question": "Rejime karşı ilk isyan",
+      "options": [],
+      "correctAnswer": ""
+    },
+    {
+      "id": "test_1",
+      "type": "test",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Kolay",
+      "infoText": "Sırpsındığı Savaşı (1364) I. Murad döneminde Haçlılarla yapılan ve kazanılan ilk savaştır.",
+      "question": "Osmanlı Devleti'nde Haçlı ordularına karşı yapılan İLK savaş hangisidir?",
+      "options": [
+        "Koyunhisar",
+        "Sazlıdere",
+        "Sırpsındığı",
+        "I. Kosova"
+      ],
+      "correctAnswer": "Sırpsındığı"
+    },
+    {
+      "id": "test_2",
+      "type": "test",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Zor",
+      "infoText": "Yavuz Sultan Selim dönemindeki Turnadağ savaşı (1515) ile Dulkadiroğulları beyliği yıkılmış ve Anadolu'da siyasi birlik kesin olarak sağlanmıştır.",
+      "question": "Osmanlı'da Anadolu Türk siyasi birliğini KESİN olarak sağlayan olay hangisidir?",
+      "options": [
+        "Otlukbeli Savaşı",
+        "Turnadağ Savaşı",
+        "Çaldıran Savaşı",
+        "Mercidabık Savaşı"
+      ],
+      "correctAnswer": "Turnadağ Savaşı"
+    },
+    {
+      "id": "test_3",
+      "type": "test",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Orta",
+      "infoText": "IV. Mehmed döneminde Lehistan ile imzalanan Bucaş Antlaşması (1672) ile Batı'daki en geniş sınırlara ulaşılmıştır.",
+      "question": "Osmanlı Devleti'nin batıda ulaştığı en geniş sınırları belirleyen antlaşma hangisidir?",
+      "options": [
+        "Karlofça",
+        "Kasr-ı Şirin",
+        "Bucaş",
+        "Vasvar"
+      ],
+      "correctAnswer": "Bucaş"
+    },
+    {
+      "id": "test_4",
+      "type": "test",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Kolay",
+      "infoText": "IV. Murad'ın Bağdat Seferi sonrasında imzalanan Kasr-ı Şirin Antlaşması (1639) günümüz sınırını oluşturmuştur.",
+      "question": "Günümüz Türkiye-İran sınırını büyük ölçüde çizen antlaşma hangisidir?",
+      "options": [
+        "Amasya",
+        "Ferhat Paşa",
+        "Nasuh Paşa",
+        "Kasr-ı Şirin"
+      ],
+      "correctAnswer": "Kasr-ı Şirin"
+    },
+    {
+      "id": "test_5",
+      "type": "test",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Zor",
+      "infoText": "Tanzimat Fermanı'nda 'Padişah da dahil herkes kanunlara uyacak' denilmiş ve kanun üstünlüğü ilk kez kabul edilmiştir.",
+      "question": "Osmanlı'da kanun üstünlüğünün ilk kez kabul edildiği belge hangisidir?",
+      "options": [
+        "Sened-i İttifak",
+        "Tanzimat Fermanı",
+        "Islahat Fermanı",
+        "Kanun-i Esasi"
+      ],
+      "correctAnswer": "Tanzimat Fermanı"
+    },
+    {
+      "id": "test_6",
+      "type": "test",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Orta",
+      "infoText": "Lale devrini başlatan ve Osmanlı'nın Avrupa'nın üstünlüğünü kabul ettiği antlaşma Pasarofça Antlaşması'dır (1718).",
+      "question": "18. yüzyılda Batı'nın üstünlüğünün KESİN olarak kabul edildiği ve Lale Devri'ni başlatan antlaşma?",
+      "options": [
+        "Karlofça",
+        "Pasarofça",
+        "Patrona Halil",
+        "Küçük Kaynarca"
+      ],
+      "correctAnswer": "Pasarofça"
+    },
+    {
+      "id": "test_7",
+      "type": "test",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Zor",
+      "infoText": "Zitvatorok Antlaşması (1606) ile Avusturya Arşidükü tekrar Osmanlı Padişahına eşit sayılmış, mütekabiliyet ilkesi geri gelmiştir.",
+      "question": "Osmanlı'nın Avusturya'ya karşı sağladığı siyasi üstünlüğünü kaybettiği antlaşma hangisidir?",
+      "options": [
+        "İstanbul (1533)",
+        "Zitvatorok",
+        "Vasvar",
+        "Karlofça"
+      ],
+      "correctAnswer": "Zitvatorok"
+    },
+    {
+      "id": "test_8",
+      "type": "test",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Kolay",
+      "infoText": "Kırım Savaşı (1853-1856) masraflarını karşılamak için İngiltere'den dış borç alınmıştır.",
+      "question": "Osmanlı Devleti ilk dış borcunu hangi savaş sırasında almıştır?",
+      "options": [
+        "93 Harbi",
+        "Balkan Savaşları",
+        "Kırım Savaşı",
+        "Dömeke Meydan Savaşı"
+      ],
+      "correctAnswer": "Kırım Savaşı"
+    },
+    {
+      "id": "test_9",
+      "type": "test",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Orta",
+      "infoText": "31 Mart Vakası (1909), meşrutiyet rejimini yıkmak amacıyla çıkarılan ilk irticai isyandır.",
+      "question": "Osmanlı Devleti'nde mevcut rejime (yönetim şekline) karşı çıkan İLK isyan hangisidir?",
+      "options": [
+        "Celali İsyanları",
+        "Patrona Halil",
+        "Kabakçı Mustafa",
+        "31 Mart Vakası"
+      ],
+      "correctAnswer": "31 Mart Vakası"
+    },
+    {
+      "id": "test_10",
+      "type": "test",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Zor",
+      "infoText": "Küçük Kaynarca Antlaşması (1774) ile bağımsız olan Kırım, halkı Müslüman ve Türk olan ilk toprak kaybımızdır.",
+      "question": "İlk kez halkı tamamen Müslüman ve Türk olan bir bölgenin kaybedildiği antlaşma?",
+      "options": [
+        "Karlofça",
+        "Küçük Kaynarca",
+        "Berlin",
+        "Yaş"
+      ],
+      "correctAnswer": "Küçük Kaynarca"
+    },
+    {
+      "id": "test_11",
+      "type": "test",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Zor",
+      "infoText": "II. Kosova savaşı (1448) ile Avrupa'nın Türkleri Balkanlardan atma ümidi sona ermiştir.",
+      "question": "Balkanların Türk yurdu olduğunun kesinleştiği ve Haçlıların savunmaya geçtiği savaş?",
+      "options": [
+        "I. Kosova",
+        "Varna",
+        "Sırpsındığı",
+        "II. Kosova"
+      ],
+      "correctAnswer": "II. Kosova"
+    },
+    {
+      "id": "test_12",
+      "type": "test",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Orta",
+      "infoText": "Sened-i İttifak (1808), II. Mahmud ve Ayanlar arasında imzalanmış, kralın yetkilerini kısıtlayan Magna Carta'ya benzetilir.",
+      "question": "Osmanlı Padişahı'nın İLK KEZ kendi gücü dışında bir gücün varlığını kabul edip yetkilerini kısıtladığı olay?",
+      "options": [
+        "Tanzimat Fermanı",
+        "Islahat Fermanı",
+        "Sened-i İttifak",
+        "Kanun-i Esasi"
+      ],
+      "correctAnswer": "Sened-i İttifak"
+    },
+    {
+      "id": "test_13",
+      "type": "test",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Kolay",
+      "infoText": "Yavuz Sultan Selim'in Mısır seferindeki Ridaniye Savaşı sonrasında Memlükler yıkılmış, kutsal emanetler ve Halifelik geçmiştir.",
+      "question": "Halifeliğin Osmanlı Devleti'ne geçtiği Mısır Seferi'nin son savaşı hangisidir?",
+      "options": [
+        "Çaldıran",
+        "Mercidabık",
+        "Ridaniye",
+        "Otlukbeli"
+      ],
+      "correctAnswer": "Ridaniye"
+    },
+    {
+      "id": "test_14",
+      "type": "test",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Zor",
+      "infoText": "İlk düzenli ordu 'Yaya ve Müsellem', Orhan Bey zamanında Bursa fethinden sonra kurulmuştur.",
+      "question": "İlk düzenli ordu olan 'Yaya ve Müsellem' hangi Osmanlı padişahı döneminde kurulmuştur?",
+      "options": [
+        "Osman Bey",
+        "Orhan Bey",
+        "I. Murad",
+        "Yıldırım Bayezid"
+      ],
+      "correctAnswer": "Orhan Bey"
+    },
+    {
+      "id": "test_15",
+      "type": "test",
+      "packName": "KPSS Tarih - Osmanlı Nokta Atışı",
+      "difficulty": "Orta",
+      "infoText": "Ankara Savaşı (1402) sonrası 11 yıl sürecek Fetret Devri yaşanmış, taht kavgaları sebebiyle devlet dağılma tehlikesi geçirmiştir.",
+      "question": "Yıldırım Bayezid döneminde yapılan ve devletin 11 yıl sürecek 'Fetret Devri'ne girmesine sebep olan savaş?",
+      "options": [
+        "Varna",
+        "Niğbolu",
+        "Ankara",
+        "I. Kosova"
+      ],
+      "correctAnswer": "Ankara"
+    }
+  ],
+  "authorLogoUrl": "https://ui-avatars.com/api/?name=Antigravity&background=8B5CF6&color=fff&size=256"
+}
