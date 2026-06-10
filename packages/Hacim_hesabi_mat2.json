@@ -16,7 +16,7 @@
     {
       "id": "vol_hap_1",
       "type": "hap_bilgi",
-      "packName": "Kalkülüs 2 - Hacim ve Alan",
+      "packName": "Kalkülüs 2 - Dönel Cisimlerin Hacmi ve Yüzey Alanı",
       "difficulty": "Kolay",
       "infoText": "DİSK METODU MANTIĞI: Formülde kare VARDIR (V = π∫f²(x)dx). Çünkü cismi dilimlediğinde karşına çıkan şekil bir dairedir ve dairenin alanı πr²'dir.",
       "question": "Disk Metodu ve Kare ilişkisi",
@@ -26,7 +26,7 @@
     {
       "id": "vol_hap_2",
       "type": "hap_bilgi",
-      "packName": "Kalkülüs 2 - Hacim ve Alan",
+      "packName": "Kalkülüs 2 - Dönel Cisimlerin Hacmi ve Yüzey Alanı",
       "difficulty": "Kolay",
       "infoText": "KABUK METODU MANTIĞI: Formülde kare YOKTUR (V = 2π∫x·f(x)dx). Çünkü cismi iç içe silindirler olarak açarız. Silindirin yanal alanında daire değil, çember çevresi (2πr) kullanılır.",
       "question": "Kabuk Metodu neden karesizdir?",
@@ -36,7 +36,7 @@
     {
       "id": "vol_hap_3",
       "type": "hap_bilgi",
-      "packName": "Kalkülüs 2 - Hacim ve Alan",
+      "packName": "Kalkülüs 2 - Dönel Cisimlerin Hacmi ve Yüzey Alanı",
       "difficulty": "Orta",
       "infoText": "SINAV ANINDA 3 SANİYE KURALI: Etrafında dönülen eksen ile denklemin türü (x veya y) AYNIYSA -> DİSK kullan. ZITLIK varsa (Y ekseni etrafında dönüyor ama denklem y=f(x) ise) -> KABUK kullan!",
       "question": "Hangi metodu seçeceğim?",
@@ -46,7 +46,7 @@
     {
       "id": "vol_hap_4",
       "type": "hap_bilgi",
-      "packName": "Kalkülüs 2 - Hacim ve Alan",
+      "packName": "Kalkülüs 2 - Dönel Cisimlerin Hacmi ve Yüzey Alanı",
       "difficulty": "Zor",
       "infoText": "HACİMDE İŞARET TABLOSU: Kabuk metodu aslında mutlak değer içerir (|x·f(x)|). Hacim negatif çıkamayacağı için sınavda sınırların pozitif bölgede kaldığını 'işaret tablosu' çizerek ispatlamak tam puan getirir.",
       "question": "Mutlak değer ve işaret tablosu",
@@ -56,7 +56,7 @@
     {
       "id": "vol_hap_5",
       "type": "hap_bilgi",
-      "packName": "Kalkülüs 2 - Hacim ve Alan",
+      "packName": "Kalkülüs 2 - Dönel Cisimlerin Hacmi ve Yüzey Alanı",
       "difficulty": "Orta",
       "infoText": "İKİ EĞRİ ARASI HACİM (PUL): İki grafik arasında kalan bölge döndürülüyorsa ortası delik bir cisim oluşur. Formül: V = π∫[ (Üsttekinin Karesi) - (Alttakinin Karesi) ]dx. Sakın farklarının karesini alma!",
       "question": "Pul (Washer) Metodu",
@@ -66,7 +66,7 @@
     {
       "id": "vol_hap_6",
       "type": "hap_bilgi",
-      "packName": "Kalkülüs 2 - Hacim ve Alan",
+      "packName": "Kalkülüs 2 - Dönel Cisimlerin Hacmi ve Yüzey Alanı",
       "difficulty": "Kolay",
       "infoText": "YÜZEY ALANI KAVRAMI: Hacim, cismin ne kadar su alacağıdır. Yüzey alanı ise dışını kaplamak için ne kadar boya gerekeceğidir. Alan formülü, yay uzunluğu (ds) ile çember çevresinin (2πr) çarpılmasından doğar.",
       "question": "Yüzey Alanı ve Hacim Farkı",
@@ -76,7 +76,7 @@
     {
       "id": "vol_hap_7",
       "type": "hap_bilgi",
-      "packName": "Kalkülüs 2 - Hacim ve Alan",
+      "packName": "Kalkülüs 2 - Dönel Cisimlerin Hacmi ve Yüzey Alanı",
       "difficulty": "Orta",
       "infoText": "YÜZEY ALANI (X EKSENİ): Bir eğri X ekseni etrafında dönüyorsa, oluşan çemberin yarıçapı 'y' mesafesidir. Formül: Alan = ∫ 2π·y·ds",
       "question": "X Ekseni Yüzey Alanı",
@@ -86,7 +86,7 @@
     {
       "id": "vol_hap_8",
       "type": "hap_bilgi",
-      "packName": "Kalkülüs 2 - Hacim ve Alan",
+      "packName": "Kalkülüs 2 - Dönel Cisimlerin Hacmi ve Yüzey Alanı",
       "difficulty": "Zor",
       "infoText": "YÜZEY ALANI (Y EKSENİ): Bir eğri Y ekseni etrafında dönüyorsa, yarıçap 'x' olur. Formül: Alan = ∫ 2π·x·ds. Buradaki 'ds', sorusuna göre Kartezyen, Parametrik veya Kutupsal yay uzunluğu köküdür.",
       "question": "Y Ekseni Yüzey Alanı ve ds",
@@ -96,7 +96,7 @@
     {
       "id": "vol_test_1",
       "type": "test",
-      "packName": "Kalkülüs 2 - Hacim ve Alan",
+      "packName": "Kalkülüs 2 - Dönel Cisimlerin Hacmi ve Yüzey Alanı",
       "difficulty": "Kolay",
       "infoText": "Disk metodunda integralin içindeki ifade, dairenin alanı olan πr²'den gelir.",
       "question": "Dönel cisimlerin hacminde, integralin başında sadece 'π' varsa ve içerideki fonksiyonun KARESİ alınıyorsa hangi metot kullanılmıştır?",
@@ -111,7 +111,7 @@
     {
       "id": "vol_test_2",
       "type": "test",
-      "packName": "Kalkülüs 2 - Hacim ve Alan",
+      "packName": "Kalkülüs 2 - Dönel Cisimlerin Hacmi ve Yüzey Alanı",
       "difficulty": "Orta",
       "infoText": "Eksen ile değişken arasında zıtlık varsa (Y ekseni etrafında ama y=x³ denklemi), kabuk metodu hayat kurtarır.",
       "question": "Sınavda y = x³ + 1 eğrisinin Y ekseni etrafında döndürülmesi istendi. x'i yalnız bırakmakla uğraşmamak için hangi metodu seçmelisin?",
@@ -126,7 +126,7 @@
     {
       "id": "vol_test_3",
       "type": "test",
-      "packName": "Kalkülüs 2 - Hacim ve Alan",
+      "packName": "Kalkülüs 2 - Dönel Cisimlerin Hacmi ve Yüzey Alanı",
       "difficulty": "Orta",
       "infoText": "İki eğri varsa (Pul yöntemi), uzaktaki dairenin alanından yakındaki dairenin alanı çıkarılır.",
       "question": "y=f(x) ve y=g(x) eğrileri arasında kalan bölgenin hacmi bulunurken integralin içi nasıl yazılır?",
@@ -141,7 +141,7 @@
     {
       "id": "vol_test_4",
       "type": "test",
-      "packName": "Kalkülüs 2 - Hacim ve Alan",
+      "packName": "Kalkülüs 2 - Dönel Cisimlerin Hacmi ve Yüzey Alanı",
       "difficulty": "Zor",
       "infoText": "Yüzey alanı formülündeki 'ds', eğrinin sonsuz küçüklükteki bir parçasının uzunluğunu temsil eder.",
       "question": "Dönel Yüzey Alanı formülünde (Alan = ∫ 2π·y·ds) bulunan 'ds' ifadesi matematikte neyin kısaltmasıdır?",
